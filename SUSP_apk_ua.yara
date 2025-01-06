@@ -1,4 +1,4 @@
-rule UNK_apk_ua {
+rule SUSP_apk_ua {
 
     meta:
         // This rule needs you to run jadx on the apk to decompile it
